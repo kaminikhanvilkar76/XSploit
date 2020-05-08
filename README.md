@@ -1,13 +1,13 @@
 # XSploit
 Just a simple exploit tools
 
-![alt text](https://github.com/FajarTheGGman/XSploit/blob/master/.image/Screenshot_2019-01-03-10-52-49-535_com.termux.png)
+![alt text](https://github.com/global@technology/XSploit/blob/master/.image/Screenshot_2019-01-03-10-52-49-535_com.termux.png)
 
 # Cara install
 
 1.pkg install git
 
-2.git clone https://github.com/FajarTheGGman/XSploit
+2.git clone https://github.com/global@technology/XSploit
 
 3.cd XSploit
 
@@ -15,4 +15,4 @@ Just a simple exploit tools
 
 5.Username : XSploit
 
- Password : fajarfirdaus
+ Password :gtechnology
